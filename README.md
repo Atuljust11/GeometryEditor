@@ -4,8 +4,8 @@
 ### Run
 * ```npm run dev```
 * Go to `localhost:8080` in the web browser
-
-### Select/Edit :", 
+ 
+### Select/Edit :, 
 1. Click On Mesh *Cube*, *Cylinder*, *IcoSphere* to Pick or Select From Scene in Heirarchy Panel
 2. Adjust mesh transform and properties in inspector
 
